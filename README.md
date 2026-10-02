@@ -94,7 +94,20 @@ Learning APIs, databases and backend technologies.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 </p>
 
 ---
@@ -102,7 +115,10 @@ Learning APIs, databases and backend technologies.
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=github-compact&hide_border=true"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 ---
