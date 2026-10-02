@@ -112,14 +112,13 @@ Learning APIs, databases and backend technologies.
 
 ---
 
-## 📊 Contribution Activity
+## 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=github-compact&hide_border=true"
-    alt="Contribution Activity Graph"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=github-compact&hide_border=true&area=true" alt="Disha's GitHub Activity Graph"/>
+
+</div>
 
 ---
 
