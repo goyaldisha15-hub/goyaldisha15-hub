@@ -93,21 +93,17 @@ Learning APIs, databases and backend technologies.
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg">
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=tokyo-night&hide_border=true">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
+</p>
 
 ---
 
@@ -120,31 +116,10 @@ JavaScript
     ↓
 React
     ↓
-Backend & APIs
+Java + DSA
     ↓
-Python
-    ↓
-NumPy / Pandas
+Backend Development
     ↓
 Machine Learning
     ↓
-Java + DSA
-    ↓
 Real-World Projects 🚀
-🎯 Current Goals
-📌 Strengthen Java fundamentals
-📌 Practice DSA
-📌 Build better React applications
-📌 Learn Machine Learning
-📌 Build full-stack projects
-📌 Contribute to open source
-📌 Participate in hackathons
-📫 Connect With Me
-<div align="center"> <a href="https://github.com/goyaldisha15-hub"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/disha-goyal-43137a360/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
-💭 Developer Mindset
-
-Learn → Build → Break → Debug → Improve → Repeat 🚀
-
-<div align="center">
-✨ Thanks for visiting my profile! ✨
-<img src="https://komarev.com/ghpvc/?username=goyaldisha15-hub&color=blueviolet&style=for-the-badge"> </div> ```
