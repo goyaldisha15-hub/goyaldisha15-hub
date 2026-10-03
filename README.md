@@ -6,7 +6,7 @@ I’m a Computer Science student passionate about building practical projects an
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me!
 
 - 🎓 B.Tech CSE (AI & ML) — K.R. Mangalam University
 - 🌐 Interested in Web Development
