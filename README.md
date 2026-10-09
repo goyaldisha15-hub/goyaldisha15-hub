@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Disha Goyal
+# 👋 Hey, I'm Disha Goyal
 
 ### B.Tech CSE (AI & ML) Student | Web Developer | AI/ML Enthusiast
 
