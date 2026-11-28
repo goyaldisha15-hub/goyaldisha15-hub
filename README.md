@@ -1,3 +1,4 @@
+
 # 👋 Hey, I am Disha Goyal
 
 ### B.Tech CSE (AI & ML) Student | Web Developer | AI/ML Enthusiast
@@ -6,7 +7,7 @@ I’m a Computer Science student passionate about building practical projects an
 
 ---
 
-## 🚀 About Me!!
+## 🚀 About Me
 
 - 🎓 B.Tech CSE (AI & ML) — K.R. Mangalam University
 - 🌐 Interested in Web Development
@@ -81,11 +82,11 @@ Learning APIs, databases and backend technologies.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goyaldisha15-hub&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=goyaldisha15-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<br><br>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goyaldisha15-hub&theme=tokyonight&hide_border=true">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=goyaldisha15-hub&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -94,13 +95,20 @@ Learning APIs, databases and backend technologies.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/goyaldisha15-hub/goyaldisha15-hub/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </p>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=github-compact&hide_border=true&area=true" alt="Disha's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goyaldisha15-hub&theme=github-compact&hide_border=true&area=true" width="100%" alt="Disha's GitHub Activity Graph"/>
 
 </div>
 
@@ -122,3 +130,14 @@ Backend Development
 Machine Learning
     ↓
 Real-World Projects 🚀
+```
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+**Keep Learning | Keep Building | Keep Growing 🚀**
+
+</div>
